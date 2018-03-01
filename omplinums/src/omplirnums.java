@@ -2,12 +2,13 @@
 public class omplirnums {
 
 	public static void main(String[] args) {
+		System.out.println ("Ivan Blasco Gascon");
 		int n=5;
 		int[] taula = new int[n];
 		taula=omplir(n);
 		int suma = sumar(taula);
 		System.out.println ("La suma es: "+ suma);
-		System.out.println ("jesus");
+		
 	
 	}
 	private static int[] omplir(int n) {
