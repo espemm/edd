@@ -15,7 +15,7 @@ public class Exer3edd {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Jordi Sales Aleixandre");
+         System.out.println("Jordi Sales Aleixandre");
     }
     
 }
