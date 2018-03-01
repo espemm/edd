@@ -8,7 +8,7 @@ public class omplirnums {
 		int suma = sumar(taula);
 		System.out.println ("La suma es: "+ suma);
 		System.out.println ("jesus");
-		System.out.print("Miguel Enrique Borras Peiro");
+		System.out.print("Miguel Enrique Borras");
 	
 	}
 	private static int[] omplir(int n) {
